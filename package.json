@@ -1,0 +1,17 @@
+
+{
+  "name": "react-lightweights",
+  "version": "0.1.0",
+  "description": "Creates light weight components that can be used a component render",
+  "license": "MIT",
+  "repository": "rcowin/react-lightweights",
+  "main": "index.js",
+  "keywords": [
+    "lightweight",
+    "react",
+    "components",
+    "conditionals",
+    "constructs",
+    "dsl"
+  ]
+}
